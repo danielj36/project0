@@ -1,0 +1,35 @@
+.navigators {
+  text-align: right;
+}
+a {
+  text-decoration: none;
+  padding: 5px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.mainfoogle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.mainform {
+  text-align: center;
+}
+.mainform > input {
+  border-radius: 15px;
+  padding: 6px;
+  margin: 6px;
+}
+.mainform > input:hover {
+  border: solid #D3D3D3;
+}
+.advancedform > input {
+  padding: 3px;
+  margin: 1px;
+}
+#advbutton{
+  color:white;
+  background-color:#4d90fe;
+}
